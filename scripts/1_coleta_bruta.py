@@ -34,9 +34,8 @@ except Exception as e:
 
 time.sleep(2)
 
-# ============================================================
 # COLETA 2: PhishTank (com validação de formato)
-# ============================================================
+
 print("\n[2/3] PhishTank...")
 try:
     url = "http://data.phishtank.com/data/online-valid.csv"
